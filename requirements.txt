@@ -1,0 +1,24 @@
+# my dev tools
+mypy==1.15
+mypy-extensions==1.0.0
+ruff==0.9.6
+typing-extensions==4.12.2
+ipython
+ipykernel>=6.29.0
+
+
+# required by the book
+dowhy
+# econml
+catenets
+gcastle
+# causica
+causal-learn
+# transformers
+# torch
+numpy
+pandas
+scikit-learn
+scipy
+
+# my preference
